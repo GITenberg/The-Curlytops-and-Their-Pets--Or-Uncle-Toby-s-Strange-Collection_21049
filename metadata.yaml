@@ -1,0 +1,42 @@
+_repo: The-Curlytops-and-Their-Pets--Or-Uncle-Toby-s-Strange-Collection_21049
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Greene, Julia
+    gutenberg_agent_id: '9693'
+    url: http://www.gutenberg.org/2009/agents/9693
+covers:
+- cover_type: archival
+  image_path: 21049-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Garis, Howard R.
+    - Davidson, Marion
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Reptiles -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Parrots -- Juvenile fiction'
+- !lcsh 'Alligators -- Juvenile fiction'
+- !lcsh 'Pets -- Juvenile fiction'
+- !lcsh 'Monkeys -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+title: The Curlytops and Their Pets; Or, Uncle Toby's Strange Collection
+url: http://www.gutenberg.org/ebooks/21049
